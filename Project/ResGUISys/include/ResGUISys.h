@@ -6,7 +6,11 @@
 *  @author      pedria
 *  @date        2022-11-12
 *  @brief       QT上位机框架头文件
+<<<<<<< HEAD
 *  @namespace   ???
+=======
+*  @namespace   ??
+>>>>>>> 6f8b1342bc0eac0d860728fd246552ef67910a11
 *  @note        
 *  @version     -v  2022-11-12
 */
