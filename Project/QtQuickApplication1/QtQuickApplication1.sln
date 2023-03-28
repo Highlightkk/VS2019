@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QtQuickApplication1", "QtQuickApplication1.vcxproj", "{3664D5BD-170E-44B1-96EB-C98ADB5C1009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3664D5BD-170E-44B1-96EB-C98ADB5C1009}.Release|x64.ActiveCfg = Release|x64
+		{3664D5BD-170E-44B1-96EB-C98ADB5C1009}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1F0A0B2-7B54-4D7A-A5EA-62969842C332}
+	EndGlobalSection
+EndGlobal
